@@ -1,0 +1,9 @@
+variable "region_mongo" {}
+variable "region_aws" {}
+variable "cluster_name" {}
+variable "cluster_size" {}
+variable "project_id" {}
+variable "vpc_cidr" {}
+variable "vpc_id" {}
+variable "mongodbatlas_public_key" {}
+variable "mongodbatlas_private_key" {}
